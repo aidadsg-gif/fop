@@ -18,8 +18,8 @@ import {
 } from "lucide-react";
 
 const checkoutUrl = "https://pay.voompcreators.com.br/9861";
-const logoUrl = "/manus-storage/fopp_e7c7641a.jpg";
-const photoUrl = "/manus-storage/IMG_2646(1)_7e18c864.webp";
+const logoUrl = "/images/logo-fop.jpg";
+const photoUrl = "/images/eunice-goncalves.webp";
 
 const modules = [
   { title: "Base Teórica", hours: 5 },
